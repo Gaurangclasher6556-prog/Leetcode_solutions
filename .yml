@@ -1,0 +1,2 @@
+- name: LeetCode-collectinator
+  uses: ME-ON1/Leetcode-SyncInAction@1.1.1
