@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0136-single-number) |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
