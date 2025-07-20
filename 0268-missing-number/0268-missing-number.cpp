@@ -1,3 +1,5 @@
+// This is the optimal solution in case to remember we can also use hasing in the case and also xor approach 
+
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
