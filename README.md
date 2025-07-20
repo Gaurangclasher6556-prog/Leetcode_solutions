@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
