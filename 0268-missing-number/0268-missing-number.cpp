@@ -1,21 +1,16 @@
-// This is the optimal solution in case to remember we can also use hasing in the case and also xor approach 
-
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {
-        int sum = 0 , n = nums.size() ;
-        int num ; 
-        sum = (n*(n+1))/2; 
-        int sum1 = 0 ;
-        for(int i = 0 ; i < n ; i++)
-        {
-            sum1 = sum1 + nums[i] ; 
-        } 
-        
-        num = sum - sum1 ; 
-        return num ;
+    int missingNumber(vector<int>& nums){ 
+    int n = nums.size();
+    int total = (n*(n+1))/2 ;
+    int sum = 0 , num ; 
+    for(int i = 0 ; i < nums.size(); i++)
+    {
+        sum += nums[i] ;
+    }
 
-    
+    num = total - sum ; 
+    return num ;
         
     }
 };
