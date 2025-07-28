@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
