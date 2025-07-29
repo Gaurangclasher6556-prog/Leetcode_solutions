@@ -1,47 +1,21 @@
 class Solution {
 public:
-    void merge(vector<int>& nums , int l , int mid , int r)
-    {
-        vector<int> temp ; 
-        int left = l , right = mid + 1 ;
-        while(left <= mid && right <= r)
+    void sortColors(vector<int>& nums) {
+        int left = 0 , mid = 0 , right = nums.size() - 1 ;
+        while(mid <= right)
         {
-            if(nums[left] <= nums[right])
+            if(nums[mid] == 0)
             {
-                temp.push_back(nums[left]);
-                left++;
+                std::swap(nums[left++] , nums[mid++]);
+            }
+            else if(nums[mid] == 1 )
+            {
+                mid++ ; 
             }
             else
             {
-                temp.push_back(nums[right]);
-                right++;
-            }
-        }    
-            while(left <= mid)
-            {
-                temp.push_back(nums[left]);
-                left++;
-            }
-            while(right <= r)
-            {
-                temp.push_back(nums[right]);
-                right++;
-            }
-            for(int i = l ; i <= r ; i++)
-            {
-                nums[i] = temp[i-l];
+                std::swap(nums[mid] , nums[right--]);
             }
         }
-    
-    void merge_Sort(vector<int>& nums , int l , int r )
-    {
-        if(l == r ) return ; 
-        int mid = (l+r)/2 ;
-        merge_Sort(nums , l , mid);
-        merge_Sort(nums , mid + 1 , r);
-        merge(nums , l , mid , r);
     }
-    void sortColors(vector<int>& nums) {
-        merge_Sort(nums , 0 , nums.size() - 1);
-         }
-  };     
+};
