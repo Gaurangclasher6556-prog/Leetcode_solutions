@@ -1,21 +1,22 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int left = 0 , mid = 0 , right = nums.size() - 1 ;
+        int left = 0 , right = nums.size() - 1 , mid = 0 ;
         while(mid <= right)
         {
             if(nums[mid] == 0)
             {
                 std::swap(nums[left++] , nums[mid++]);
             }
-            else if(nums[mid] == 1 )
+            else if(nums[mid] == 1)
             {
                 mid++ ; 
             }
-            else
+            else 
             {
                 std::swap(nums[mid] , nums[right--]);
             }
         }
+        
     }
 };
