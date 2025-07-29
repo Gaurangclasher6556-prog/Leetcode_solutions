@@ -14,7 +14,7 @@ public:
             }
             else
             {
-                std::swap(nums[mid++] , nums[right--]);
+                std::swap(nums[mid] , nums[right--]);
             }
         }
         
