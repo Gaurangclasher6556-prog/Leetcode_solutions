@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0189-rotate-array) |
 ## Math
@@ -41,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
