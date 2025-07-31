@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -57,6 +59,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
