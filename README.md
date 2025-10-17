@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -81,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Counting
@@ -114,4 +117,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
