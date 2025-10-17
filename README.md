@@ -24,6 +24,7 @@
 | [0485-max-consecutive-ones](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
