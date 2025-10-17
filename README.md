@@ -33,6 +33,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0049-group-anagrams](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,4 +128,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
