@@ -156,4 +156,20 @@
 | [0021-merge-two-sorted-lists](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
