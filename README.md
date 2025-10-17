@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
