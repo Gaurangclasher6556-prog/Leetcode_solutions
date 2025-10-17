@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@
 | [0169-majority-element](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -59,6 +61,7 @@
 | [0169-majority-element](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +72,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,9 +82,22 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0242-valid-anagram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
