@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0049-group-anagrams) |
@@ -24,6 +25,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0036-valid-sudoku) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
