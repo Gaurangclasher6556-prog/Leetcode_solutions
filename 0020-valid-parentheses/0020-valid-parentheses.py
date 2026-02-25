@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        check = { ")":"(" , "}":"{" , "]":"[" }
+        check = {"]" : "[" , "}" : "{" , ")" : "("}
         for c in s:
             if c in check:
                 if stack and stack[-1] == check[c]:
@@ -9,5 +9,6 @@ class Solution:
                 else:
                     return False
             else:
-                stack.append(c)        
-        return True if not stack else False
+                stack.append(c)
+        return True if not stack else  False            
+        
