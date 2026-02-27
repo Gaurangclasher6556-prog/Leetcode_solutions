@@ -25,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
@@ -138,6 +139,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
