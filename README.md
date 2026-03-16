@@ -139,6 +139,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
@@ -169,6 +170,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
@@ -178,6 +180,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
@@ -194,6 +197,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
