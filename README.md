@@ -22,6 +22,7 @@
 | [0136-single-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -61,6 +62,7 @@
 | [0049-group-anagrams](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -165,6 +167,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
