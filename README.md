@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0242-valid-anagram](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0881-boats-to-save-people](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
