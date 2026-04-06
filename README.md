@@ -33,6 +33,7 @@
 | [0658-find-k-closest-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
@@ -171,10 +172,12 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
