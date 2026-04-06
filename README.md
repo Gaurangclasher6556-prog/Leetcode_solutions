@@ -29,6 +29,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
@@ -47,6 +48,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
@@ -77,6 +79,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
@@ -95,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 ## Prefix Sum
 |  |
@@ -134,6 +138,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -172,6 +177,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Gaurangclasher6556-prog/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
